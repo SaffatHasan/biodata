@@ -1,0 +1,75 @@
+# GRANDPARENTS
+- id: 0
+  name: Sheikh Rahman
+  img: https://www.clipartmax.com/png/small/335-3351736_go-back-gallery-for-contact-person-icon-person-icon.png
+- id: 1
+  name: Manic
+  title: grandma
+  # next 3 lines say grandma and grandpa are partners
+  pid: 0
+  tags:
+    - partner
+  img: https://www.clipartmax.com/png/small/335-3351736_go-back-gallery-for-contact-person-icon-person-icon.png
+
+# PARENTS
+# my parents
+- id: 10
+  pid: 0
+  ppid: 1
+  name: Barnali Hasan
+  title: MD
+  img: https://d2uur722ua7fvv.cloudfront.net/photos/Dr-Barnali-Hasan-MD-112129-zoom.jpg
+
+- id: 11
+  pid: 10
+  tags:
+    - left-partner
+  name: Mahfujul Hasan
+  title: DDS
+  img: https://d1k13df5m14swc.cloudfront.net/photos/Dr-Mahfujul-Hasan-DDS-284052-circle_large__v2__.png
+
+# fahan's parents
+
+- id: 12
+  pid: 0
+  ppid: 1
+  name: Ratna Asgar
+  img: https://www.clipartmax.com/png/small/335-3351736_go-back-gallery-for-contact-person-icon-person-icon.png
+
+- id: 13
+  pid: 12
+  tags:
+    - partner
+  name: M. Ali Asgar
+  img: https://www.clipartmax.com/png/small/335-3351736_go-back-gallery-for-contact-person-icon-person-icon.png
+
+
+# KIDS
+- id: 101
+  pid: 10
+  ppid: 11
+  name: Saffat Hasan
+  title: MS
+  img: https://www.cs.drexel.edu/~sh3292/biodata/assets/saffat.jpg
+- id: 102
+  pid: 10
+  ppid: 11
+  name: Rayad Ryan Hasan
+  img: https://scontent-lga3-1.xx.fbcdn.net/v/t1.6435-9/83322629_2553857221500246_8717283692336119808_n.jpg?_nc_cat=101&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=oE79pWHNWXMAX9_6lno&_nc_ht=scontent-lga3-1.xx&oh=3a0efd95c9f3694c205ff01619bceb6d&oe=6196589B
+- id: 103
+  pid: 10
+  ppid: 11
+  name: Saad Sean Hasan
+  img: https://scontent-lga3-1.xx.fbcdn.net/v/t1.6435-9/66581980_400341993917716_7675987004772843520_n.jpg?_nc_cat=106&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=lKfR1f2UvDkAX9GDiMx&_nc_ht=scontent-lga3-1.xx&oh=cfb05a156ddd9b7cc00655bde428977e&oe=61967713
+- id: 104
+  pid: 10
+  ppid: 11
+  name: Raj Kiran Hasan
+  img: https://yt3.ggpht.com/ytc/AKedOLQLJLjWCRYHdbmYa99o4Okbc18T7gUMSsbNMbFrlw=s88-c-k-c0x00ffffff-no-rj
+
+- id: 201
+  pid: 12
+  ppid: 13
+  name: Asfahana Asgar
+  title: BS
+  img: https://previews.123rf.com/images/dotsnpixels/dotsnpixels0804/dotsnpixels080400171/2904243-funny-clown.jpg

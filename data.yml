@@ -50,6 +50,7 @@
   ppid: 11
   name: Saffat Hasan
   title: MS
+  dob: April 27, 1994
   img: https://www.cs.drexel.edu/~sh3292/biodata/assets/saffat.jpg
 - id: 102
   pid: 10
@@ -72,4 +73,6 @@
   ppid: 13
   name: Asfahana Asgar
   title: BS
-  img: https://previews.123rf.com/images/dotsnpixels/dotsnpixels0804/dotsnpixels080400171/2904243-funny-clown.jpg
+  dob: October 22, 1993
+  education: B.S. in Chemical Engineering, Drexel University 
+  img: https://www.cs.drexel.edu/~sh3292/biodata/assets/fahan.jpg

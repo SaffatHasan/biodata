@@ -72,7 +72,22 @@
   pid: 12
   ppid: 13
   name: Asfahana Asgar
-  title: BS
+  title: BS Chemical Engineering
   dob: October 22, 1993
   education: B.S. in Chemical Engineering, Drexel University 
   img: https://www.cs.drexel.edu/~sh3292/biodata/assets/fahan.jpg
+
+- id: 202
+  pid: 12
+  ppid: 13
+  name: Annajiat Asgar
+  title: BS
+  img: https://www.clipartmax.com/png/small/335-3351736_go-back-gallery-for-contact-person-icon-person-icon.png
+
+- id: 202
+  pid: 202
+  tags:
+    - partner
+  name: Jakeer Hussain
+  title: BS
+  img: https://www.clipartmax.com/png/small/335-3351736_go-back-gallery-for-contact-person-icon-person-icon.png
